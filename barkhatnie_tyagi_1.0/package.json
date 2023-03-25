@@ -1,0 +1,12 @@
+{
+	"name": "tyagi",
+	"displayName": "barkhatnie tyagi",
+	"description": "kefteme",
+	"version": "1.0",
+	"publisher": "shaxverdiev",
+	"author": "shaxverdiev vadim",
+	"repository": "https://github.com/shaxverdiev",
+	"engines": {
+		"vscode": "^1.14.0"
+	}
+}
